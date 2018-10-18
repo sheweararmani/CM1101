@@ -396,8 +396,8 @@ def main():
 
     # Main game loop
     while True:
-        if items['pen'] in rooms["Reception"]["items"]:
-            print('You have completed the game')
+        if items['money'] in rooms["Office"]["items"]:
+            print('You have paid your fees!')
             break
 
         # Display game status (room description, inventory etc.)

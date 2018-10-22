@@ -23,8 +23,9 @@ print("|________/_\___________8_|   |_\_______\88888_.'___\__/|")
 
 print("L u k e  S k y w a l k e r       H a n   S o l o       ")
 
-print("  Jedi Knight, Strong with       Smuggler, Pirate     ")
-print("the force, has a lightsaber    has a gun and Chewie! ")
+print("  Jedi Knight, Strong with       Smuggler, Pirate      ")
+print("the force, has a lightsaber    has a gun and Chewie!   ")
+print("        Health: 100                Health: 100         ")
 
 
 

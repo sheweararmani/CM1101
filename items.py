@@ -4,10 +4,10 @@ item_lightsaber = {
     "name": "Lightsaber",
 
     "description":
-    "________________"
+    "This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster. An elegant weapon for a more civilized age - ObiWan"
 
     
-}
+
 
 item_pc = {
     "id": "powerconverter",
@@ -15,7 +15,7 @@ item_pc = {
     "name": "Power Converter",
 
     "description":
-    "________________",
+    "This are the parts you've been looking for!",
 
     
 }
@@ -26,7 +26,7 @@ item_landspeeder = {
     "name": "Landspeeder",
 
     "description":
-    "________________",
+    "Fast enough to take you to Cantina",
 
     
 }
@@ -36,18 +36,18 @@ item_r2d2 = {
 
     "name": "R2D2",
 
-    "description": "________________",
+    "description": "Overweight glob of grease - C3PO",
 
     
 
 }
 
-item_handgun = {
-    "id": "handgun",
+item_blaster = o
+    "id": "blaster",
     
-    "name": "Handgun",
+    "name": "Blaster",
 
-    "description": "________________",
+    "description": "Hokey religions and ancient weapons are no match for a good blaster at your side - Han Solo",
 
     
 }
@@ -57,7 +57,7 @@ item_chewie = {
     
     "name": "Chewbacca",
 
-    "description": "________________",
+    "description": "Legendary wookie. Period.",
 
     
 }
@@ -67,7 +67,7 @@ item_leia = {
 
 	"name": "Princess Leia"
 
-	"description": "________________",
+	"description": "The princess you need to win the game for",
 }
 
 items = {
@@ -75,7 +75,7 @@ items = {
     "powerconverter": item_pc,
     "landspeeder": item_landspeeder,
     "r2d2": item_r2d2,
-    "handgun": item_handgun,
+    "handgun": item_blaster,
     "chewie": item_chewie,
     "leia": item_leia
 }
